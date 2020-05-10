@@ -4,7 +4,7 @@
 
 [Retention Schedule Guide] (docs/Untitled.ipynb)  
 
-[Sample Doc Generator] (docs/Doc_Generator.ipynb) 
+[Sample Doc Generator] (slryb9008/rybicki1_final_project_IS452/blob/master/Doc_Generator.ipynb) 
 ```
 ## Sample Docs CSV 
 
