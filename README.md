@@ -1,23 +1,10 @@
 # IS 452 Final Project 
 
-## Table of Contents
-
 ## Introduction 
 
-## Retention Schedule Guide 
+[Retention Schedule Guide] (docs/Untitled.ipynb)  
 
-## Sample Doc Generator 
-```
-import random
-from random import randint
-import datetime
-import csv
-```
-```
-current_date = datetime.datetime.today()
-open_date = datetime.datetime(2001,1,1)
-print("current date is", current_date)
-print("open date is", open_date) 
+[Sample Doc Generator] (docs/Doc_Generator.ipynb) 
 ```
 ## Sample Docs CSV 
 
