@@ -12,6 +12,8 @@ import random
 from random import randint
 import datetime
 import csv
+```
+```
 current_date = datetime.datetime.today()
 open_date = datetime.datetime(2001,1,1)
 print("current date is", current_date)
