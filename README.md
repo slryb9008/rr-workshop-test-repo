@@ -2,14 +2,10 @@
 
 ## Introduction 
 
-[Retention Schedule Guide] (https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/Untitled.ipynb)  
-
-[Sample Doc Generator] (slryb9008/rybicki1_final_project_IS452/blob/master/Doc_Generator.ipynb) 
-```
-## Sample Docs CSV 
-
-## Rentention Schedule Checker 
-
-## GUI? 
+# Table of Contents
+1. [Retention Schedule Guide] (#retention)  
+2. [Sample Doc Generator] (#generator) 
+3. [Sample Docs CSV] (#csvfile)
+4. [Rentention Schedule Checker] (#checker) 
 
 ## Final Thoughts
