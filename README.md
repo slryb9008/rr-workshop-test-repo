@@ -1,12 +1,9 @@
-# rr-workshop-test-repo
-My test repository for the Reproducible Research workshop
-
-I will be adding more to this repository as we learn more features.
-
-
-# jupyter-rr-demo-repo
-Demo repo for writing github directions
-
-I will be adding more to this repository as we learn about more features.
-
-Why did the snake cross the road?  It hoped to put an arterial road between it and Python 2.
+IS 452 Final Project 
+[Table of Contents]
+[Introduction]
+[Retention Schedule Guide] 
+[Sample Doc Generator] 
+[Sample Docs CSV] 
+[Rentention Schedule Checker] 
+[GUI?] 
+[Final Thoughts]
