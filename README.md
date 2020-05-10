@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-[Retention Schedule Guide] (docs/Untitled.ipynb)  
+[Retention Schedule Guide] (https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/Untitled.ipynb)  
 
 [Sample Doc Generator] (slryb9008/rybicki1_final_project_IS452/blob/master/Doc_Generator.ipynb) 
 ```
