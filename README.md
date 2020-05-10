@@ -1,17 +1,17 @@
-#IS 452 Final Project 
+# IS 452 Final Project 
 
-[Table of Contents] 
+## Table of Contents
 
-[Introduction] 
+## Introduction 
 
-[Retention Schedule Guide] 
+## Retention Schedule Guide 
 
-[Sample Doc Generator] 
+## Sample Doc Generator 
 
-[Sample Docs CSV] 
+## Sample Docs CSV 
 
-[Rentention Schedule Checker] 
+## Rentention Schedule Checker 
 
-[GUI?] 
+## GUI? 
 
-[Final Thoughts]
+## Final Thoughts
