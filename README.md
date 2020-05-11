@@ -1,4 +1,6 @@
 # IS 452 Final Project 
+Submitted by Sarah Rybicki
+11 May 2020 
 
 ## Introduction 
 Welcome! 
@@ -15,4 +17,6 @@ For this project I have created a Python program that analyzes a csv inventory o
 
 2. [Sample Doc Generator](https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/Doc_Generator.ipynb) 
 
-3. [Rentention Schedule Checker](https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/Retention_Checker.ipynb) 
+3. [Retention Schedule Checker](https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/Retention_Checker.ipynb) 
+
+4. [GUI](https://github.com/slryb9008/rybicki1_final_project_IS452/blob/master/GUI.ipynb)
